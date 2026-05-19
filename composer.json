@@ -1,0 +1,15 @@
+{
+    "name": "jayrmaglaque/ws03-php",
+    "description": "Job seeker application",
+    "authors": [
+        {"name": "John Patrick M. Frias",
+         "email": "johnpatrickfrias06@gmail.com"
+    }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
